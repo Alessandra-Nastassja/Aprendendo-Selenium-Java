@@ -49,9 +49,19 @@ public class InformacoesUsuarioTest {
 		navegador.findElement(By.linkText("SIGN IN")).click(); 
 		
 		//Validando que dentro do elemento com class "me" está o texto "Hi, hello"
-		WebElement me = navegador.findElement(By.className("me"));
-		String textoNoElementoMe = me.getText();
-		assertEquals("Hi, Julio", textoNoElementoMe);
+		//WebElement me = navegador.findElement(By.className("me"));
+		//String textoNoElementoMe = me.getText();
+		//assertEquals("Hi, Julio", textoNoElementoMe);
+		
+		//Clicar em um link que possui a class "me"
+	
+		//Clicar  em um link que possui o texto "MORE DATA ABOUT YOU"
+		
+		//Clicar no botão através do seu xpath //button[@data-target="addmoredata"]
+		
+		//Identificar a popup onde está o formulário de id addmoredata
+		
+		//Na combo name "type" escolhe a opção  
 	}
 	
 	@After
