@@ -1,5 +1,6 @@
 ![](https://www.drupal.org/files/styles/grid-3-2x/public/images/big-logo.png?itok=0nhPkZpp)
 # Aprendendo-Selenium-Java
+Aprendendo um pouco sobre teste, usando a tecnologia Selenium Web Driver.
 
 ******
 ## *Como rodar ?* 🚀
